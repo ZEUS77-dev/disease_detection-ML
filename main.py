@@ -1,5 +1,5 @@
 import streamlit as st
-pip install streamlit-searchbox
+?pip install streamlit-searchbox
 from streamlit_searchbox import st_searchbox
 from typing import List
 import pandas as pd
