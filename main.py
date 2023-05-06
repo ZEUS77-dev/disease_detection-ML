@@ -27,4 +27,4 @@ for value in selected_values:
 # for element, value in element_map.items():
 #     if value == 1:
 #         st.write(element)
-st.write(element_map)
+# st.write(element_map)
